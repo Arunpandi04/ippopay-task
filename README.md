@@ -1,6 +1,6 @@
-# sample-node
-
 git clone https://github.com/Arunpandi04/sample-node.git
+
+# Node Application
 
 cd sample-node 
 
@@ -22,7 +22,7 @@ npm start App Listen on 5000 port
 
 # React Application 
 
-cd sample-node 
+cd sample-node/client
 
 node version 14
 
