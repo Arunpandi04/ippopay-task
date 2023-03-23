@@ -1,4 +1,4 @@
-#MERN Stack
+# MEREN Stack
 
 git clone https://github.com/Arunpandi04/sample-node.git
 
