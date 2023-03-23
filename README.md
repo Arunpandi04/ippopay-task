@@ -1,4 +1,4 @@
-# MEREN Stack
+# MEREN Stack Aplication
 
 git clone https://github.com/Arunpandi04/sample-node.git
 
