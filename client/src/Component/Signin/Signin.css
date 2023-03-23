@@ -1,0 +1,12 @@
+.signin-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .signin-btn{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+  }

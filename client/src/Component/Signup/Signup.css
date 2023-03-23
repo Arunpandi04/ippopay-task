@@ -1,0 +1,12 @@
+.signup-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .signup-btn{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+  }
